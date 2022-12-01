@@ -7,3 +7,4 @@ char * strcpy(char * dst, const char * src)
  
         return( dst );
 }
+/*函数代码*/
